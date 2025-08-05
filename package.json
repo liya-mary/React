@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "keywords": [],
+  "homepage": "https://github.com/liya-mary/React#readme",
+  "bugs": {
+    "url": "https://github.com/liya-mary/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liya-mary/React.git"
+  },
+  "license": "ISC",
+  "author": "Liya Mary",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
